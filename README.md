@@ -85,7 +85,7 @@ Athlete average speed ~ Year of event + Athlete Age + Gender_encoded
 
 ### Limitations:
 **1. Modest explanatory power:**
-- R² values (0.10–0.11) suggest that most of the variation in speed is explained by unmeasured factors like **training quality, course difficulty, weather, and strategy**.
+- R² values (0.10–0.11) suggest that most of the variation in speed is explained by unmeasured factors like **training quality, course difficulty, weather, and strategy**. More typical in human performance analysis.
   
 **2. No non-linear effects or interaction terms included here:**
 - Age may have a non-linear relationship with performance (e.g., performance plateaus in middle age before decline).
