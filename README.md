@@ -7,6 +7,7 @@ This project explores long-term trends in participation and performance in ultra
 
 The project showcases the full data analytics lifecycle — from cleaning and transformation, to exploratory data visualization, to statistical modeling — using industry-standard tools in Python.
 
+**Data Set**: [Raw Data](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data?select=TWO_CENTURIES_OF_UM_RACES.csv)
 ---
 
 ## Tools & Libraries Used
