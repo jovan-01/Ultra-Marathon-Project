@@ -40,7 +40,7 @@ The project showcases the full data analytics lifecycle — from cleaning and tr
 ### Key Visual Analyses
 - **Participation Trends**:
   - Count of races per year and by distance, dip in 2020 due to COVID-19
-    ![Participation by Year](Visuals/RacesByDistance.png) ![Participation by Race Over Time](Visuals/RacesPerYear.png)
+    ![Participation By Race Over Time](Visuals/RacesByDistance.png) 
 - **Speed Distributions**:
   - By gender and distance
     ![Speed Distribution By Gender and Distance](Visuals/SpeedDistributionByGender.png)
