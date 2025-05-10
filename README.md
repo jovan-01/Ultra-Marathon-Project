@@ -51,7 +51,7 @@ The project showcases the full data analytics lifecycle — from cleaning and tr
   - U.S. has higher participation; average speeds are similar across both nations
     ![Average Participation By Country](Visuals/ParticipationByCountry.png) ![Average Speed By Country](Visuals/AvgSpeedByCountry.png)
 - **Performnace Trends**
-  - Average speed decreased over years for each event
+  - Average speed decreased over the years for each event
     ![Average Speed Over Time](Visuals/AvgSpeedByYear.png)
 
 ### EDA Insights:
