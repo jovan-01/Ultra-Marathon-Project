@@ -35,19 +35,21 @@ The project showcases the full data analytics lifecycle — from cleaning and tr
   `ultra_northamerica_classic.csv`
 
 ---
-
 ## Exploratory Data Analysis (`umEDA.ipynb`)
 
 ### Key Visual Analyses
-- **Participation Trends**: Count of races per year and by distance
+- **Participation Trends**:
+  - Count of races per year and by distance, dip in 2020 due to COVID-19
+    ![Participation by Year](Visuals/RacesByDistance.png) ![Participation by Race Over Time](Visuals/RacesPerYear.png)
 - **Speed Distributions**:
-  - By gender, distance, and country
+  - By gender and distance
+    ![Speed Distribution By Gender and Distance](Visuals/SpeedDistributionByGender.png)
 - **Age and Performance**:
   - Violin and regression plots showed speed decline with age
+    ![Average Speed By Age](Visuals/AvgSpeedByAge.png)
 - **Country Comparison**:
   - U.S. has higher participation; average speeds are similar across both nations
-- **Gender Participation**:
-  - Female participation has increased over time, particularly in 50km races
+     ![Average Participation By Country](Visuals/ParticipationByCountry.png) ![Average Speed By Country](Visuals/AvgSpeedByCountry.png)
 
 ### EDA Insights:
 - **50km races dominate** in participation, particularly post-2010.
